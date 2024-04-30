@@ -1,0 +1,12 @@
+{
+    "name": "saperemarketing/gather",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "./includes"
+        }
+    }
+}
